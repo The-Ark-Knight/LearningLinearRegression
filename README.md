@@ -1,0 +1,3 @@
+# Learning Linear Regression
+
+This is the repo i am going use as basis for all my works and learnings related to the topic of regression and you will some overlap between this and the other repositories as i will trying and testing new things so...
